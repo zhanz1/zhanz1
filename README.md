@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-#### Computer Science Student @ University of Illinois at Urbana Champaign
+#### Software Engineer @ Bloomberg
+#### Computer Science @ University of Illinois at Urbana Champaign
